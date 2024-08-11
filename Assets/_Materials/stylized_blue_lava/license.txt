@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Blue Lava
+* source:	https://sketchfab.com/3d-models/stylized-blue-lava-1503b4a9a03540789ca26907af3a07c8
+* author:	Akif Akdemir (https://sketchfab.com/akifakdemir)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Blue Lava" (https://sketchfab.com/3d-models/stylized-blue-lava-1503b4a9a03540789ca26907af3a07c8) by Akif Akdemir (https://sketchfab.com/akifakdemir) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
